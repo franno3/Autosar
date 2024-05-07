@@ -1,4 +1,4 @@
-Producent: 		<f1>
+Producent: 		Embraer
 Model:			<f2>
 Ilość miejsc:	<f3>
 
