@@ -1,4 +1,0 @@
-plik1
-
-Branch:	main
-Rev: 	1.3
