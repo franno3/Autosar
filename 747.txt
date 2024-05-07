@@ -1,0 +1,5 @@
+Producent: 		Boeing
+Model:			747
+Ilość miejsc:	456
+
+Template rev. 1.0
