@@ -1,5 +1,5 @@
 Producent: 		Boeing
-Model:			<f2>
+Model:			747
 Ilość miejsc:	<f3>
 
 Template rev. 1.0
