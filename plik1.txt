@@ -1,6 +1,4 @@
-Plik 
-v 1.2
+plik1
 
-Zmiana widoczna tylko na branchu aa16_team10
-
-Druga zmiana na main
+Branch:	main
+Rev: 	1.3

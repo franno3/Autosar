@@ -1,4 +1,4 @@
 plik2
 
-Branch:	aa16_team10
-Rev: 	1.0
+Branch:	main
+Rev: 	1.1
