@@ -1,3 +1,4 @@
 Plik 
 v 1.0
 
+Druga zmiana na main
