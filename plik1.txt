@@ -1,5 +1,5 @@
 Plik 
-v 1.1
+v 1.2
 
 Zmiana widoczna tylko na branchu aa16_team10
 
