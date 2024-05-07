@@ -1,5 +1,5 @@
 Producent: 		Embraer
-Model:			<f2>
+Model:			175
 Ilość miejsc:	<f3>
 
 Template rev. 1.0
