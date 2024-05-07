@@ -1,4 +1,6 @@
 Plik 
-v 1.0
+v 1.2
+
+Zmiana widoczna tylko na branchu aa16_team10
 
 Druga zmiana na main
