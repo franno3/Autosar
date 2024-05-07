@@ -1,0 +1,4 @@
+plik2
+
+Branch:	aa16_team10
+Rev: 	1.0
