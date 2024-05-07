@@ -1,5 +1,5 @@
 Producent: 		Airbus
 Model:			380
-Ilość miejsc:	<f3>
+Ilość miejsc:	700
 
 Template rev. 1.0
